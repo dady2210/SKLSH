@@ -107,7 +107,7 @@ class Skillshare(object):
             'User-Agent': 'Skillshare/5.3.0; Android 9.0.1',
             'Host': 'api.skillshare.com',
             'Referer': 'https://www.skillshare.com/',
-            'cookie': self.cookie,
+            'cookie': 'skillshare_user_=cb036ef8c06139429c32bbf4376988b8f896b8d2a%3A4%3A%7Bi%3A0%3Bs%3A8%3A%2224612416%22%3Bi%3A1%3Bs%3A19%3A%22ba3daniel%40gmail.com%22%3Bi%3A2%3Bi%3A7776000%3Bi%3A3%3Ba%3A4%3A%7Bs%3A8%3A%22username%22%3Bs%3A9%3A%22726396372%22%3Bs%3A10%3A%22login_time%22%3Bs%3A19%3A%222022-02-14%2022%3A25%3A44%22%3Bs%3A10%3A%22touch_time%22%3Bs%3A19%3A%222022-02-14%2022%3A37%3A48%22%3Bs%3A5%3A%22roles%22%3Bs%3A0%3A%22%22%3B%7D%7D',
             }
         )
 
